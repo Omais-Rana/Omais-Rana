@@ -1,4 +1,4 @@
-![Header]([./github-header-image.png](https://agreeable-pond-087f7a90f.1.azurestaticapps.net/))
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Omais!</h1>
 <h3 align="center">A passionate full stack web developer from Asia</h3>

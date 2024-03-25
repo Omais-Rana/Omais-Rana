@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on ****Laravel Development****
 
-- 🌱 I’m currently learning ****Filament****
-
 - 👯 I’m looking to collaborate on ****Web Projects****
 
 - 👨‍💻 My projects are available at [**portfolio-omais.super.site/**](**portfolio-omais.super.site/**)

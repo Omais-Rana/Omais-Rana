@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on ****Web Projects****
 
-- 👨‍💻 My projects are available at [**My Portfolio**](www.portfolio-omais.super.site)
+- 👨‍💻 My projects are available at [**My Portfolio**](https://github.com/Omais-Rana/Omais-Rana/blob/main/Portfolio.pdf)
 
 - 💬 Ask me about ****Web, Laravel****
 

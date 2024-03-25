@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on ****Web Projects****
 
-- 👨‍💻 My projects are available at [**portfolio-omais.super.site/**](**portfolio-omais.super.site/**)
+- 👨‍💻 My projects are available at [**My Portfolio/**](**portfolio-omais.super.site/**)
 
 - 💬 Ask me about ****Web, Laravel****
 
 - 📫 How to reach me ****omaisrana439@gmail.com****
 
-- 📄 Know about my experiences <iframe src="https://docs.google.com/gview?url=https://github.com/Omais-Rana/Omais-Rana/blob/main/Resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+- 📄 Know about my experiences https://github.com/Omais-Rana/Omais-Rana/blob/main/Resume.pdf
 
 <br>
 <br>

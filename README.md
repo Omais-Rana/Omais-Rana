@@ -13,6 +13,8 @@
 
 - 📫 How to reach me ****omaisrana439@gmail.com****
 
+- 📄 Know about my experiences
+
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3> 

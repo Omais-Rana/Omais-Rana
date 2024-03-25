@@ -13,7 +13,7 @@
 
 - 📫 How to reach me ****omaisrana439@gmail.com****
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences <iframe src="https://docs.google.com/gview?url=https://github.com/Omais-Rana/Omais-Rana/blob/main/Resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
 <br>
 <br>

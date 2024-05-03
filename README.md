@@ -1,6 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/Omais-Rana/Omais-Rana/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Omais!</h1>
-<h2 align="center">⚙️ A Passionate Full-Stack Developer ⚙️</h2>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 # 💫 About Me:

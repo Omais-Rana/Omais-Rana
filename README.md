@@ -12,7 +12,7 @@
 - 📫 How to reach me ****omaisrana439@gmail.com****
 
 - 📄 Know about my experiences in [**My Resume**](https://github.com/Omais-Rana/Omais-Rana/blob/main/Resume.pdf)
-
+<br>
 
 # 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omais-rana-web-dev/) 
 

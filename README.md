@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 # 💫 About Me:
-- 🔭 I’m currently working on ****Laravel Web Development****
+- 🔭 I’m currently working on ****PHP Laravel Development****
 
-- 🤝 I’m looking to collaborate on ****Web Projects****
+- 🤝 I’m looking to collaborate on ****Full Stack Projects****
 
 - 👨‍💻 My projects are available at [**My Portfolio**](https://portfolio-omais.super.site/)
 
